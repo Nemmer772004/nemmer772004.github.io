@@ -4,11 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open portfolio-details.html",
-            "file": "/home/nemmer/Nemmer-Workflow/Test-web/Cv/iPortfolio/portfolio-details.html"
+            "name": "Open index.html",
+            "file": "/home/nemmer/Nemmer-Workflow/Test-web/Cv/nemmer772004.github.io/index.html"
         }
     ]
 }
