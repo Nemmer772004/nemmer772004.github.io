@@ -10,7 +10,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/home/nemmer/Nemmer-Workflow/Test-web/Cv/nemmer772004.github.io/index.html"
+            "file": "/home/nemmer/Nemmer-Workflow/ME/nemmer772004.github.io/index.html"
         }
     ]
 }
